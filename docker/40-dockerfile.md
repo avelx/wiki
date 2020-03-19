@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
 FROM - minimum distributions
 
 && - chaine commans  as they are all in layers

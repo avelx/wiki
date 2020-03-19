@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  DockerBase
-permalink: /dockerbase/
+permalink: /docker/
 ---
 	* Docker containers
 

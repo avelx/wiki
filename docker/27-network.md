@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
 -----------------------------------------------------------
 
   * Publish network port externaly:

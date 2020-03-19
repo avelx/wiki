@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
   == history && inspect
 
   ** Run new nginx container

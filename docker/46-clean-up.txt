@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
   =Total clean up all  dangling resources
   docker system prune
 

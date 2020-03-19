@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
 	* Docker containers
 
 L/19

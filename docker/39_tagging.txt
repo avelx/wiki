@@ -1,3 +1,9 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
+
   ==Create a new tag:
   docker image tag nginx avelresearch/general:nginx
 

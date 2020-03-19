@@ -1,3 +1,8 @@
+---
+layout: default
+title:  DockerBase
+permalink: /docker/
+---
 
    docker container run -d --name nginx nginx
 
