@@ -1,6 +1,7 @@
 ---
 layout: default
-title:  Mac Ports
+title:  MacPorts
+permalink: /macports/
 ---
 
 Main guide:
