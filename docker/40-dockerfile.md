@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  DockerBase
-permalink: /docker/
+permalink: /docker-file/
 ---
 
 FROM - minimum distributions

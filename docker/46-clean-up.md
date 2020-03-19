@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  DockerBase
-permalink: /docker/
+permalink: /docker-clean-up/
 ---
 
   =Total clean up all  dangling resources

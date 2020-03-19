@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  DockerBase
-permalink: /docker/
+permalink: /docker-tagging/
 ---
 
   ==Create a new tag:
