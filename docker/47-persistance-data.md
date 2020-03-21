@@ -29,6 +29,8 @@ permalink: /docker-persistance/
 
   * create container with mounted volume
   docker container run -d --name nginx -p 80:80 -v $(pwd):/usr/share/nginx/html nginx
+
+  docker container run -d --name psql -v psql:/var/lib/postgresql/data postgres:9.6.1
   
   docker container exec -it nginx bash
   
